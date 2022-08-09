@@ -1,0 +1,11 @@
+D:\Lich\Lich\bin\Debug\Lich.exe.config
+D:\Lich\Lich\bin\Debug\Lich.exe
+D:\Lich\Lich\bin\Debug\Lich.pdb
+D:\Lich\Lich\obj\Debug\Lich.csproj.AssemblyReference.cache
+D:\Lich\Lich\obj\Debug\Lich.csproj.SuggestedBindingRedirects.cache
+D:\Lich\Lich\obj\Debug\Lich.Form1.resources
+D:\Lich\Lich\obj\Debug\Lich.Properties.Resources.resources
+D:\Lich\Lich\obj\Debug\Lich.csproj.GenerateResource.cache
+D:\Lich\Lich\obj\Debug\Lich.csproj.CoreCompileInputs.cache
+D:\Lich\Lich\obj\Debug\Lich.exe
+D:\Lich\Lich\obj\Debug\Lich.pdb
