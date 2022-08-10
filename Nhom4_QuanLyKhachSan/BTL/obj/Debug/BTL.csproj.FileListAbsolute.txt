@@ -1,0 +1,69 @@
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.F_login.resources
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.trangchu.resources
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.quanlynv.resources
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.catnhatthongtinnv.resources
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.chitietphongphieu.resources
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.quanlykhachhang.resources
+C:\Users\HP\Desktop\LTNC\lan2\BTL\BTL\obj\Debug\BTL.LienHe.resources
+D:\QuanLyKhachSanSharp-main\BTL\bin\Debug\BTL.exe.config
+D:\QuanLyKhachSanSharp-main\BTL\bin\Debug\BTL.exe
+D:\QuanLyKhachSanSharp-main\BTL\bin\Debug\BTL.pdb
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.catnhatthongtinnv.resources
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.F_login.resources
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.LienHe.resources
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.quanlykhachhang.resources
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.quanlynv.resources
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.trangchu.resources
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.exe
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.pdb
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.chitietphieuphong.resources
+D:\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.capnhatlichlamviec.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\bin\Debug\BTL.exe.config
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\bin\Debug\BTL.exe
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\bin\Debug\BTL.pdb
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.capnhatlichlamviec.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.catnhatthongtinnv.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.chitietphieuphong.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.F_login.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.LienHe.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.quanlykhachhang.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.quanlynv.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.trangchu.resources
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.exe
+C:\Users\HP\Desktop\LTNC\lan2\QuanLyKhachSanSharp-main\BTL\obj\Debug\BTL.pdb
+D:\QuanLyKhachSanSharp-main (1)\BTL\bin\Debug\BTL.exe.config
+D:\QuanLyKhachSanSharp-main (1)\BTL\bin\Debug\BTL.exe
+D:\QuanLyKhachSanSharp-main (1)\BTL\bin\Debug\BTL.pdb
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.capnhatlichlamviec.resources
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.catnhatthongtinnv.resources
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.chitietphieuphong.resources
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.F_login.resources
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.LienHe.resources
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.quanlykhachhang.resources
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.quanlynv.resources
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.trangchu.resources
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.exe
+D:\QuanLyKhachSanSharp-main (1)\BTL\obj\Debug\BTL.pdb
